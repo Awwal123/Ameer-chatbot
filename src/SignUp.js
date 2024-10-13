@@ -215,6 +215,7 @@ export default function SignUp() {
             </div> */}
           </div>
         </form>
+      
 
         {showPopup && (
           <PopupMessage
